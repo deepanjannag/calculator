@@ -1,4 +1,4 @@
-let screen = document.querySelector('.screen');
+const screen = document.querySelector('.screen');
 let buttons = document.querySelectorAll('button');
 
 buttons.forEach(button =>
